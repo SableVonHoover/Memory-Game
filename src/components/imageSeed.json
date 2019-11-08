@@ -1,0 +1,43 @@
+[
+
+    {
+      "id": 1,
+      "image": "tarot1.jpg"
+    }, 
+    {
+      "id": 2,
+      "image": "tarot2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "tarot3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "tarot4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "tarot5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "tarot6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "tarot7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "tarot8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "tarot9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "tarot10.jpg"
+    }
+]
